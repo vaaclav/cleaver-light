@@ -1,3 +1,5 @@
+This is a fork of a Cleaver Light theme with modified styles (fonts, sizes, code colors).
+
 # Cleaver Light
 
 ![Cleaver Light](cleaver-light.png)
